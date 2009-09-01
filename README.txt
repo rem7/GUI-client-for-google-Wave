@@ -1,3 +1,9 @@
+*UPDATE*
+Google has changed the reference client/server and compiling my GUI client no longer works with the latest release. Thus I have included a pre-compiled client and the script to run it. You may need to edit the script so that the variables suit your machine but this should work.
+
+
+
+
 A very simple GUI based client to be used with the reference server
 
 This is a small experiement I investigated and thus unfortunately I cannot keep the project updated or fix bugs etc at the moment, especially as google keep updating the reference code. This may or may not work with the current distribution of the google wave reference server again I haven't tested it.
